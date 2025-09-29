@@ -2,7 +2,7 @@ import os
 while True:
     print(">>", end ='')
     answ = input()
-    
+    #xuesos
     if(answ == "exit"):
         print("leaving from programm")
         break
